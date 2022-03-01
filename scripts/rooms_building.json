@@ -1,0 +1,394 @@
+[
+	{
+		"id" : 1,
+		"name" : "Yoseloff",
+		"pdfname" : "Yoseloff  Hall",
+		"availname" : " ",
+		"lat" : 40.344255,
+		"lon" : -74.656129
+	},
+	{
+		"id" : 2,
+		"name" : "Bogle",
+		"pdfname" : "Bogle  Hall",
+		"availname" : " ",
+		"lat" : 40.34425,
+		"lon" : -74.655612
+	},
+	{
+		"id" : 3,
+		"name" : "1976",
+		"pdfname" : "1976 Hall",
+		"availname" : " ",
+		"lat" : 40.344532,
+		"lon" : -74.655534
+	},
+	{
+		"id" : 4,
+		"name" : "1915",
+		"pdfname" : "Class of 1915 Hall",
+		"availname" : " ",
+		"lat" : 40.344719,
+		"lon" : -74.65694
+	},
+	{
+		"id" : 5,
+		"name" : "1967",
+		"pdfname" : "Class of 1967 Hall",
+		"availname" : " ",
+		"lat" : 40.343998,
+		"lon" : -74.655887
+	},
+	{
+		"id" : 6,
+		"name" : "Bloomberg",
+		"pdfname" : "Emma Bloomberg Hall",
+		"availname" : " ",
+		"lat" : 40.343418,
+		"lon" : -74.655867
+	},
+	{
+		"id" : 7,
+		"name" : "Wilf",
+		"pdfname" : "Wilf Hall",
+		"availname" : " ",
+		"lat" : 40.344381,
+		"lon" : -74.655207
+	},
+	{
+		"id" : 8,
+		"name" : "Forbes Addition",
+		"pdfname" : "Forbes Addition",
+		"availname" : " ",
+		"lat" : 40.341498,
+		"lon" : -74.660568
+	},
+	{
+		"id" : 9,
+		"name" : "Forbes Main",
+		"pdfname" : "Forbes College Main",
+		"availname" : " ",
+		"lat" : 40.342214,
+		"lon" : -74.661144
+	},
+	{
+		"id" : 10,
+		"name" : "Blair",
+		"pdfname" : "Blair Hall",
+		"availname" : " ",
+		"lat" : 40.347445,
+		"lon" : -74.661497
+	},
+	{
+		"id" : 11,
+		"name" : "Campbell",
+		"pdfname" : "Campbell Hall",
+		"availname" : " ",
+		"lat" : 40.347984,
+		"lon" : -74.661451
+	},
+	{
+		"id" : 12,
+		"name" : "Edwards",
+		"pdfname" : "Edwards Hall",
+		"availname" : " ",
+		"lat" : 40.34714524,
+		"lon" : -74.65927882
+	},
+	{
+		"id" : 13,
+		"name" : "Hamilton",
+		"pdfname" : "Hamilton Hall",
+		"availname" : " ",
+		"lat" : 40.34811,
+		"lon" : -74.66219
+	},
+	{
+		"id" : 14,
+		"name" : "Joline",
+		"pdfname" : "Joline Hall",
+		"availname" : " ",
+		"lat" : 40.347803,
+		"lon" : -74.662118
+	},
+	{
+		"id" : 15,
+		"name" : "Little",
+		"pdfname" : "Little Hall",
+		"availname" : " ",
+		"lat" : 40.346679,
+		"lon" : -74.659941
+	},
+	{
+		"id" : 16,
+		"name" : "Buyers",
+		"pdfname" : "Buyers Hall",
+		"availname" : " ",
+		"lat" : 40.347405,
+		"lon" : -74.660712
+	},
+	{
+		"id" : 17,
+		"name" : "Holder",
+		"pdfname" : "Holder Hall",
+		"availname" : " ",
+		"lat" : 40.348599,
+		"lon" : -74.661556
+	},
+	{
+		"id" : 18,
+		"name" : "Witherspoon",
+		"pdfname" : "Witherspoon Hall",
+		"availname" : " ",
+		"lat" : 40.34745173,
+		"lon" : -74.66012844
+	},
+	{
+		"id" : 19,
+		"name" : "1901-Laughlin",
+		"pdfname" : "Class of 1901-Laughlin Hall",
+		"availname" : " ",
+		"lat" : 40.346367,
+		"lon" : -74.660307
+	},
+	{
+		"id" : 20,
+		"name" : "1903",
+		"pdfname" : "Class of 1903 Hall",
+		"availname" : " ",
+		"lat" : 40.346029,
+		"lon" : -74.657136
+	},
+	{
+		"id" : 21,
+		"name" : "Brown",
+		"pdfname" : "Brown Hall",
+		"availname" : " ",
+		"lat" : 40.346367,
+		"lon" : -74.657862
+	},
+	{
+		"id" : 22,
+		"name" : "Cuyler",
+		"pdfname" : "Cuyler Hall",
+		"availname" : " ",
+		"lat" : 40.345943,
+		"lon" : -74.657482
+	},
+	{
+		"id" : 23,
+		"name" : "2 Dickinson",
+		"pdfname" : "Dickinson Street, 2",
+		"availname" : " ",
+		"lat" : 40.34577253,
+		"lon" : -74.66112355
+	},
+	{
+		"id" : 24,
+		"name" : "Dod Hall",
+		"pdfname" : "Dod Hall",
+		"availname" : "",
+		"lat" : 40.34678,
+		"lon" : -74.658659
+	},
+	{
+		"id" : 25,
+		"name" : "Foulke",
+		"pdfname" : "Foulke Hall",
+		"availname" : " ",
+		"lat" : 40.346321,
+		"lon" : -74.660941
+	},
+	{
+		"id" : 26,
+		"name" : "Henry",
+		"pdfname" : "Henry Hall",
+		"availname" : " ",
+		"lat" : 40.345827,
+		"lon" : -74.660627
+	},
+	{
+		"id" : 27,
+		"name" : "Lockhart",
+		"pdfname" : "Lockhart Hall",
+		"availname" : " ",
+		"lat" : 40.346755,
+		"lon" : -74.661307
+	},
+	{
+		"id" : 28,
+		"name" : "Patton",
+		"pdfname" : "Patton Hall",
+		"availname" : " ",
+		"lat" : 40.345263,
+		"lon" : -74.657423
+	},
+	{
+		"id" : 29,
+		"name" : "Pyne",
+		"pdfname" : "Pyne Hall",
+		"availname" : " ",
+		"lat" : 40.345359,
+		"lon" : -74.659666
+	},
+	{
+		"id" : 30,
+		"name" : "Scully",
+		"pdfname" : "Scully Hall",
+		"availname" : " ",
+		"lat" : 40.344386,
+		"lon" : -74.654874
+	},
+	{
+		"id" : 31,
+		"name" : "Spelman",
+		"pdfname" : "Spelman Halls",
+		"availname" : " ",
+		"lat" : 40.344653,
+		"lon" : -74.659248
+	},
+	{
+		"id" : 32,
+		"name" : "Wright",
+		"pdfname" : "Wright Hall",
+		"availname" : " ",
+		"lat" : 40.34570028,
+		"lon" : -74.65758615
+	},
+	{
+		"id" : 33,
+		"name" : "1981",
+		"pdfname" : "1981 Hall",
+		"availname" : " ",
+		"lat" : 40.34365,
+		"lon" : -74.657332
+	},
+	{
+		"id" : 34,
+		"name" : "North B",
+		"pdfname" : "North Hall Building \"B\"",
+		"availname" : " ",
+		"lat" : 40.344296,
+		"lon" : -74.658352
+	},
+	{
+		"id" : 35,
+		"name" : "North C",
+		"pdfname" : "North Hall Building \"C\"",
+		"availname" : " ",
+		"lat" : 40.34412,
+		"lon" : -74.65803
+	},
+	{
+		"id" : 36,
+		"name" : "Fisher",
+		"pdfname" : "Fisher Hall",
+		"availname" : " ",
+		"lat" : 40.344618,
+		"lon" : -74.658188
+	},
+	{
+		"id" : 37,
+		"name" : "Hargadon",
+		"pdfname" : "Hargadon Hall",
+		"availname" : " ",
+		"lat" : 40.343872,
+		"lon" : -74.658496
+	},
+	{
+		"id" : 38,
+		"name" : "Lauritzen",
+		"pdfname" : "Lauritzen Hall",
+		"availname" : " ",
+		"lat" : 40.343615,
+		"lon" : -74.658358
+	},
+	{
+		"id" : 39,
+		"name" : "Baker E",
+		"pdfname" : "Baker Hall \"E\"",
+		"availname" : " ",
+		"lat" : 40.343449,
+		"lon" : -74.65792
+	},
+	{
+		"id" : 40,
+		"name" : "Baker S",
+		"pdfname" : "Baker Hall \"S\"",
+		"availname" : " ",
+		"lat" : 40.343451,
+		"lon" : -74.65792
+	},
+	{
+		"id" : 41,
+		"name" : "Murley-Pivirotto",
+		"pdfname" : "Murley-Pivirotto Family Tower",
+		"availname" : " ",
+		"lat" : 40.343993,
+		"lon" : -74.658417
+	},
+	{
+		"id" : 42,
+		"name" : "1927/Clapp",
+		"pdfname" : "Class of 1927-Clapp Hall",
+		"availname" : "  ",
+		"lat" : 40.345162,
+		"lon" : -74.655828
+	},
+	{
+		"id" : 43,
+		"name" : "1937",
+		"pdfname" : "Class of 1937 Hall",
+		"availname" : " ",
+		"lat" : 40.345863,
+		"lon" : -74.656253
+	},
+	{
+		"id" : 44,
+		"name" : "1938",
+		"pdfname" : "Class of 1938 Hall",
+		"availname" : " ",
+		"lat" : 40.345046,
+		"lon" : -74.655429
+	},
+	{
+		"id" : 45,
+		"name" : "1939",
+		"pdfname" : "Class of 1939 Hall",
+		"availname" : " ",
+		"lat" : 40.345328,
+		"lon" : -74.656541
+	},
+	{
+		"id" : 46,
+		"name" : "Dodge-Osborn",
+		"pdfname" : "Dodge-Osborn Hall",
+		"availname" : " ",
+		"lat" : 40.34549,
+		"lon" : -74.655848
+	},
+	{
+		"id" : 47,
+		"name" : "Feinberg",
+		"pdfname" : "Feinberg Hall",
+		"availname" : " ",
+		"lat" : 40.345827,
+		"lon" : -74.656613
+	},
+	{
+		"id" : 48,
+		"name" : "Gauss",
+		"pdfname" : "Gauss Hall",
+		"availname" : " ",
+		"lat" : 40.345082,
+		"lon" : -74.656744
+	},
+	{
+		"id" : 49,
+		"name" : "Walker",
+		"pdfname" : "Walker Hall",
+		"availname" : " ",
+		"lat" : 40.34555,
+		"lon" : -74.656933
+	}
+]
