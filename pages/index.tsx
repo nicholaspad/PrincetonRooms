@@ -63,6 +63,7 @@ const Error: NextPage = () => {
                 href="https://www.tigerapps.org/#about"
                 style={{ color: "#2196f3", textDecoration: "underline" }}
                 target="_blank"
+                rel="noreferrer"
               >
                 TigerApps team
               </a>{" "}
@@ -163,7 +164,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Room Reviews</title>
       </Head>
-      <Container maxWidth="lg">
+      <Container maxWidth="xl">
         <Modal open={open} onClose={handleClose}>
           <Box
             sx={{
@@ -186,15 +187,6 @@ const Home: NextPage = () => {
             <Typography sx={{ mt: 2 }}>{review}</Typography>
           </Box>
         </Modal>
-        <Typography variant="h3" mt={5} textAlign="center" fontWeight="medium">
-          Room Reviews
-        </Typography>
-        <Typography variant="subtitle1" mb={2} textAlign="center">
-          The TigerApps team has recovered room review data from the now-defunct
-          Rooms app. Click the <b>Filters</b> button below to begin!
-          <br />
-          <i>App design credit: Nicholas Padmanabhan '23</i>
-        </Typography>
         <Grid
           container
           spacing={0}
@@ -203,13 +195,40 @@ const Home: NextPage = () => {
           justifyContent="center"
         >
           <Grid item xs={3} sx={{ textAlign: "center" }}>
-            <Box height={"80vh"} width={1100}>
+            <Typography
+              variant="h3"
+              mt={5}
+              mb={1}
+              textAlign="center"
+              fontWeight="medium"
+            >
+              Room Reviews
+            </Typography>
+            <Typography variant="subtitle1" mb={3} textAlign="center">
+              The{" "}
+              <a
+                href="https://www.tigerapps.org/"
+                style={{ color: "#2196f3", textDecoration: "underline" }}
+                target="_blank"
+                rel="noreferrer"
+              >
+                TigerApps team
+              </a>{" "}
+              has recovered room review data from the now-defunct Rooms app.
+              <br />
+              Click the <b>Filters</b> button below to begin! This web app is
+              best experienced on desktop.
+              <br />
+              <i>App design credit: Nicholas Padmanabhan &apos;23</i>
+            </Typography>
+            <Box height={"60vh"} width={1100}>
               <DataGrid
                 components={{ Toolbar: GridToolbar }}
                 getRowId={(row) => row._id}
                 rows={data}
                 columns={columns}
                 pageSize={20}
+                rowsPerPageOptions={[]}
               />
             </Box>
           </Grid>
