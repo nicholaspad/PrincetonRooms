@@ -219,7 +219,10 @@ const Home: NextPage = () => {
               Click the <b>Filters</b> button below to begin! This web app is
               best experienced on desktop.
               <br />
-              <i>App design credit: Nicholas Padmanabhan &apos;23</i>
+              <i>
+                Credit: Nicholas Padmanabhan &apos;23, Shannon Heh &apos;23,
+                Charles An &apos;22
+              </i>
             </Typography>
             <Box height={"60vh"} width={1100}>
               <DataGrid
