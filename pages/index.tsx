@@ -106,14 +106,20 @@ const Home: NextPage = () => {
   if (!data) return <Loading />;
 
   const columns: GridColDef[] = [
-    { field: "building_name", headerName: "Building", flex: 1 },
-    { field: "room_number", headerName: "Room #" },
+    {
+      field: "building_name",
+      headerName: "Building",
+      minWidth: 120,
+      flex: 0.33,
+    },
+    { field: "room_number", headerName: "Room #", minWidth: 80, flex: 0.33 },
     {
       field: "content",
       headerName: "Review",
       sortable: false,
       filterable: false,
-      flex: 1,
+      minWidth: 110,
+      flex: 0.33,
       renderCell: (params: GridValueGetterParams) => (
         <Button
           onClick={() =>
@@ -194,7 +200,7 @@ const Home: NextPage = () => {
           alignItems="center"
           justifyContent="center"
         >
-          <Grid item xs={3} sx={{ textAlign: "center" }}>
+          <Grid item xs={3} sx={{ textAlign: "center", width: "100%", px: 0 }}>
             <Typography
               variant="h3"
               mt={5}
@@ -204,7 +210,11 @@ const Home: NextPage = () => {
             >
               Room Reviews
             </Typography>
-            <Typography variant="subtitle1" mb={3} textAlign="center">
+            <Typography
+              variant="subtitle1"
+              fontWeight="medium"
+              textAlign="center"
+            >
               The{" "}
               <a
                 href="https://www.tigerapps.org/"
@@ -215,18 +225,19 @@ const Home: NextPage = () => {
                 TigerApps team
               </a>{" "}
               has recovered room review data from the now-defunct Rooms app.
-              <br />
+            </Typography>
+            <Typography fontSize={16}>
               Click the <b>Filters</b> button below to begin! This web app is
               best experienced on desktop.
-              <br />
-              <i>App design: Nicholas Padmanabhan &apos;23</i>
-              <br />
-              <i>
-                Team: Shannon Heh &apos;23, Nicholas Padmanabhan &apos;23,
-                Charles An &apos;22
-              </i>
             </Typography>
-            <Box height={"60vh"} width={1100}>
+            <Typography fontStyle="italic" fontSize={16} mt={1}>
+              App design: Nicholas Padmanabhan &apos;23
+            </Typography>
+            <Typography fontStyle="italic" fontSize={16} mb={2}>
+              Team: Shannon Heh &apos;23, Nicholas Padmanabhan &apos;23, Charles
+              An &apos;22
+            </Typography>
+            <Box height={"60vh"} width={"100%"} display="flex" mb={2}>
               <DataGrid
                 components={{ Toolbar: GridToolbar }}
                 getRowId={(row) => row._id}
