@@ -227,8 +227,7 @@ const Home: NextPage = () => {
               has recovered room review data from the now-defunct Rooms app.
             </Typography>
             <Typography fontSize={16}>
-              Click the <b>Filters</b> button below to begin! This web app is
-              best experienced on desktop.
+              Click the <b>Filters</b> button below to begin!
             </Typography>
             <Typography fontStyle="italic" fontSize={16} mt={1}>
               App design: Nicholas Padmanabhan &apos;23
