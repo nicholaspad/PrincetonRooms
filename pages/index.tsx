@@ -222,7 +222,7 @@ const Home: NextPage = () => {
               <i>App design: Nicholas Padmanabhan &apos;23</i>
               <br />
               <i>
-                Team: Nicholas Padmanabhan &apos;23, Shannon Heh &apos;23,
+                Team: Shannon Heh &apos;23, Nicholas Padmanabhan &apos;23,
                 Charles An &apos;22
               </i>
             </Typography>
