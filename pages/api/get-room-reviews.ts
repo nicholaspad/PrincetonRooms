@@ -1,13 +1,19 @@
+import { MongoClient } from "mongodb";
 import type { NextApiRequest, NextApiResponse } from "next";
-import { getDB } from "../../src/database";
 
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
-  const reviewsCollection = (await getDB()).collection("reviews");
+  const client = new MongoClient(process.env.DATABASE_URL as string);
+  await client.connect();
+
+  const reviewsCollection = client.db("room-reviews").collection("reviews");
   const data: Object[] = await reviewsCollection.find({}).toArray();
-  if (!data) return res.status(404).end();
+  if (!data) {
+    await client.close();
+    return res.status(404).end();
+  }
   const preppedData: Object[] = data.map((review: any) => {
     return {
       _id: review._id,
@@ -24,5 +30,6 @@ export default async function handler(
       room_bathroomtype: review.room_bathroomtype,
     };
   });
+  await client.close();
   return res.status(200).json(preppedData);
 }
