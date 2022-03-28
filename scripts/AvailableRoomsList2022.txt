@@ -1,0 +1,13051 @@
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+
+101
+102
+104
+111
+112
+113
+114
+115
+116
+117
+118
+119
+121
+122
+123
+124
+125
+126
+131
+132
+133
+141
+201
+202
+203
+212
+213
+214
+215
+221
+222
+
+TRIPLE
+DOUBLE
+TRIPLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+TRIPLE
+DOUBLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+TRIPLE
+QUAD
+SINGLE
+DOUBLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+
+444
+335
+404
+122
+402
+194
+191
+380
+183
+370
+427
+337
+122
+503
+502
+336
+498
+167
+482
+219
+415
+799
+173
+375
+345
+378
+144
+153
+349
+331
+87
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+2
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1901
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+
+223
+224
+225
+226
+232
+233
+234
+235
+301
+311
+312
+313
+314
+321
+322
+323
+324
+325
+331
+332
+333
+334
+335
+401
+402
+403
+404
+405
+411
+413
+421
+431
+441
+222A
+223A
+111
+112
+113
+114
+121
+123
+124
+125
+126
+131
+132
+133
+134
+135
+136
+141
+143
+211
+212
+213
+214
+215
+216
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+
+157
+148
+145
+139
+139
+174
+156
+176
+556
+363
+355
+364
+185
+128
+296
+190
+246
+160
+686
+119
+144
+142
+158
+154
+186
+414
+190
+196
+839
+459
+351
+330
+372
+92
+129
+170
+204
+180
+162
+173
+503
+174
+179
+165
+184
+318
+233
+172
+131
+166
+378
+185
+176
+205
+252
+234
+185
+206
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+2
+1
+1
+2
+1
+1
+1
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+1903
+
+221
+222
+224
+225
+226
+227
+228
+231
+232
+233
+234
+235
+236
+237
+241
+242
+243
+244
+311
+312
+313
+314
+321
+323
+324
+332
+333
+334
+401
+402
+411
+412
+413
+414
+421
+422
+431
+432
+433
+501
+502
+503
+504
+512
+513
+514
+515
+516
+517
+523
+525
+528
+531
+532
+533
+534
+535
+523A
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+DA
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+
+176
+178
+175
+177
+433
+185
+196
+182
+128
+140
+156
+149
+521
+449
+216
+157
+214
+342
+396
+172
+176
+394
+393
+175
+389
+185
+138
+124
+593
+217
+166
+221
+557
+203
+230
+495
+171
+332
+179
+538
+292
+158
+309
+424
+176
+163
+369
+187
+202
+105
+314
+194
+207
+216
+112
+119
+486
+235
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1967
+1967
+1967
+1967
+1967
+1967
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1976
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+1981
+99ALEXANDER
+99ALEXANDER
+99ALEXANDER
+99ALEXANDER
+99ALEXANDER
+99ALEXANDER
+99ALEXANDER
+
+B202
+B204
+B209
+B302
+B304
+B309
+D106
+D112
+D114
+D204
+D210
+D212
+D214
+D216
+D304
+D306
+D312
+D314
+D316
+F007
+F015
+F016
+F017
+F018
+F019
+F023
+F024
+F025
+F026
+F027
+F101
+F102
+F103
+F104
+F105
+F107
+F113
+F114
+F116
+F117
+F121
+F123
+F201
+F212
+F225
+F227
+F228
+F229
+F301
+F302
+F303
+101
+103
+106
+107
+202
+203
+205
+
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+
+542
+574
+148
+542
+574
+148
+538
+571
+202
+219
+580
+571
+139
+140
+219
+564
+571
+139
+140
+107
+144
+118
+150
+466
+232
+147
+115
+147
+130
+164
+149
+159
+484
+170
+475
+131
+465
+101
+465
+466
+147
+702
+1115
+119
+147
+147
+117
+706
+1020
+288
+177
+417
+203
+185
+185
+204
+192
+681
+
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+
+2
+2
+1
+2
+2
+1
+2
+2
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+2
+1
+2
+4
+1
+1
+1
+1
+2
+4
+1
+1
+2
+1
+1
+1
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Addy Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+
+A308
+A408
+A416
+A418
+A508
+A515
+A604
+A605
+A606
+A609
+A610
+A613
+A615
+A617
+A618
+A704
+A705
+A706
+A707
+A709
+A710
+A711
+A713
+A715
+B002
+B003
+B004
+B005
+B006
+B201
+B203
+B204
+B205
+B210
+B212
+B213
+B220
+B221
+B223A
+B223B
+B229
+B301
+B303
+B304
+B305
+B312
+B313
+B318
+B319
+B320
+B329
+B401
+B402
+B403A
+B403B
+B408
+B410A
+B410B
+
+QUAD
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+QUAD
+QUAD
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+485
+484
+162
+127
+494
+707
+307
+168
+305
+306
+128
+131
+308
+441
+707
+307
+168
+305
+136
+306
+128
+152
+132
+308
+153
+150
+143
+149
+145
+468
+156
+232
+151
+153
+140
+149
+147
+147
+159
+159
+556
+468
+156
+233
+151
+143
+151
+132
+133
+147
+561
+439
+727
+152
+149
+164
+156
+153
+
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+
+2
+2
+1
+1
+2
+4
+1
+1
+1
+1
+1
+1
+1
+2
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+4
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+Aliya Kanji Hall
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+
+B411A
+B411B
+B413
+B415
+B501
+B502
+B503A
+B503B
+B508
+B510A
+B510B
+B512
+B513
+B514
+B516
+B601
+B602
+B603A
+B603B
+B610
+B612
+E105
+E107
+E108
+E109
+E113
+E118
+E123
+E125
+E205
+E206
+E207
+E208
+E210
+E211
+E214
+E215
+E217
+E218
+E219
+E223
+E224
+E306
+E307
+E308
+E309
+E404
+E405
+E406
+E407
+E408
+E409
+E410
+E411
+E413
+E415
+E416
+E417
+
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+157
+169
+151
+580
+438
+723
+152
+149
+164
+162
+153
+152
+150
+152
+600
+438
+725
+152
+149
+148
+137
+116
+114
+144
+144
+220
+146
+140
+140
+111
+215
+114
+220
+145
+486
+118
+109
+114
+470
+452
+140
+113
+465
+114
+144
+146
+126
+121
+126
+149
+126
+128
+124
+133
+128
+128
+133
+128
+
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+
+1
+1
+1
+2
+2
+4
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+2
+1
+1
+2
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BAKER
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+BLAIR
+
+E418
+E419
+E421
+S002
+S003
+S102
+S106
+S202
+S203
+S204
+S205
+S206
+S302
+S303
+S305
+S402
+S403
+S404
+S405
+S406
+45
+51
+53
+61
+63
+65
+74
+81
+82
+83
+91
+92
+93
+95
+96
+97
+98
+102
+114
+301
+302
+303
+A02
+B41
+B42
+B51
+B52
+B53
+B61
+B62
+B71
+B72
+B73
+B81
+B82
+B83
+B91
+B92
+
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+
+138
+128
+133
+650
+261
+554
+138
+558
+193
+202
+195
+137
+510
+179
+211
+485
+128
+109
+131
+109
+101
+517
+503
+277
+251
+499
+510
+501
+523
+504
+504
+213
+271
+540
+603
+592
+573
+541
+184
+575
+598
+595
+160
+122
+214
+138
+156
+147
+248
+225
+150
+145
+149
+143
+146
+149
+132
+644
+
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+1
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+
+112
+121
+124
+132
+140
+175
+177
+181
+182
+191
+193
+223
+224
+226
+227
+267
+270
+271
+272
+274
+276
+277
+278
+279
+281
+322
+323
+324
+325
+327
+329
+330
+333
+334
+336
+340
+341
+342
+343
+344
+346
+348
+349
+350
+357
+361
+367
+369
+371
+373
+374
+376
+378
+381
+401
+402
+403
+404
+
+TRIPLE
+QUAD
+SINGLE
+QUAD
+QUAD
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+495
+758
+170
+632
+680
+244
+708
+702
+585
+669
+710
+131
+135
+145
+132
+135
+134
+133
+173
+132
+134
+154
+136
+139
+710
+133
+133
+136
+132
+132
+133
+181
+193
+166
+146
+148
+139
+145
+139
+145
+148
+154
+169
+146
+156
+141
+135
+154
+136
+531
+132
+135
+136
+710
+162
+153
+149
+145
+
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+
+3
+4
+1
+4
+4
+1
+4
+4
+4
+4
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+1
+2
+1
+1
+1
+4
+1
+1
+1
+1
+
+
+
+
+
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BLOOMBERG
+BOGLE
+BOGLE
+BOGLE
+BOGLE
+BOGLE
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+
+405
+406
+407
+408
+409
+410
+411
+413
+423
+425
+429
+430
+434
+436
+439
+441
+443
+445
+447
+449
+451
+454
+456
+457
+458
+459
+461
+463
+465
+467
+469
+471
+473
+474
+476
+478
+481
+C102
+C104
+C202
+C204
+C205
+B014
+B020
+B021
+B022
+B024
+B025
+B028
+B029
+B030
+B115
+B116
+B117
+B119
+B120
+B121
+B122
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+
+148
+146
+149
+145
+151
+134
+154
+225
+134
+137
+134
+187
+178
+153
+134
+138
+138
+139
+173
+147
+175
+129
+153
+149
+134
+146
+147
+147
+146
+134
+142
+132
+482
+205
+113
+113
+638
+522
+516
+580
+522
+153
+558
+151
+136
+136
+140
+148
+153
+149
+154
+154
+136
+136
+140
+130
+130
+280
+
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+4
+2
+2
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+Bosque Hall
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+
+B217
+B223
+B228A
+B228B
+B229
+B231
+B232
+B234
+B235
+B303
+B306
+B309
+B310
+B314A
+B317
+B324
+B329A
+B329B
+B330
+B332
+B333
+B335
+B336
+B403
+B405A
+B405B
+B406
+B418A
+B418B
+B419
+B421
+B422
+B424
+B503
+B504
+B509A
+B509B
+B510
+B512
+B513
+B515
+B516
+111
+112
+113
+114
+117
+119
+121
+122
+123
+125
+126
+127
+128
+210
+211
+212
+
+DOUBLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+TRIPLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+
+340
+473
+158
+158
+146
+151
+131
+533
+454
+129
+295
+241
+244
+158
+242
+473
+158
+158
+146
+151
+131
+533
+454
+128
+177
+164
+157
+158
+158
+146
+151
+131
+533
+274
+473
+158
+158
+146
+151
+131
+533
+454
+497
+505
+125
+125
+119
+837
+112
+518
+123
+128
+108
+536
+509
+228
+501
+518
+
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+3
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+2
+2
+1
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BROWN
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+BUYERS
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+
+213
+214
+219
+220
+221
+222
+227
+228
+311
+312
+313
+314
+318
+319
+320
+321
+322
+325
+326
+327
+328
+329
+410
+411
+412
+413
+414
+417
+418
+419
+420
+421
+425
+426
+427
+428
+429
+24
+32
+33
+34
+B12
+B21
+B22
+B23
+B31
+22
+24
+31
+32
+33
+34
+41
+42
+44
+56
+63
+64
+
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+TRIPLE
+QUAD
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+TRIPLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+
+126
+127
+495
+497
+505
+125
+505
+519
+502
+500
+125
+129
+507
+490
+503
+498
+124
+132
+124
+501
+495
+237
+230
+512
+516
+128
+134
+120
+523
+520
+500
+507
+129
+122
+530
+508
+220
+553
+728
+583
+131
+458
+124
+128
+125
+210
+317
+262
+422
+422
+424
+423
+411
+411
+377
+246
+270
+267
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Mathey College
+Mathey College
+Mathey College
+
+1
+1
+2
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+1
+2
+2
+1
+1
+2
+2
+1
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+1
+2
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CAMPBELL
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+CUYLER
+DOD
+DOD
+
+65
+66
+003A
+003B
+003C
+004A
+004B
+005B
+052A
+052B
+111
+112
+121
+122
+211
+212
+221
+222
+231
+234
+235
+236
+311
+312
+321
+322
+401
+402
+403
+404
+412
+414
+421
+422
+431
+432
+433
+434
+435
+437
+438
+439
+511
+521
+522
+601
+611
+612
+613
+621
+622
+623
+631
+632
+633
+634
+101
+102
+
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+TRIPLE
+QUAD
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+TRIPLE
+SINGLE
+DOUBLE
+TRIPLE
+TRIPLE
+QUINT
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+QUAD
+TRIPLE
+DOUBLE
+DOUBLE
+TRIPLE
+DOUBLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+257
+256
+162
+141
+171
+192
+168
+140
+117
+118
+530
+447
+529
+441
+425
+409
+428
+415
+126
+639
+151
+127
+424
+415
+429
+416
+223
+399
+235
+394
+399
+437
+775
+396
+153
+164
+152
+124
+120
+191
+180
+142
+351
+347
+360
+684
+439
+266
+253
+431
+265
+257
+456
+148
+226
+130
+125
+120
+
+Mathey College
+Mathey College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Mathey College
+Mathey College
+Mathey College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+1
+3
+1
+1
+2
+2
+2
+2
+1
+2
+1
+1
+2
+2
+4
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+2
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+
+103
+104
+105
+106
+107
+111
+112
+113
+114
+115
+200
+201
+202
+203
+204
+205
+207
+210
+211
+212
+213
+214
+217
+300
+301
+302
+303
+304
+307
+310
+311
+312
+313
+314
+315
+316
+317
+401
+403
+404
+405
+407
+411
+413
+414
+415
+416
+417
+101N
+101S
+102N
+102S
+200N
+200S
+201N
+201S
+202N
+202S
+
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+
+260
+125
+125
+120
+120
+125
+120
+260
+125
+125
+125
+125
+120
+260
+125
+125
+120
+125
+125
+120
+260
+125
+120
+125
+125
+120
+260
+125
+120
+125
+125
+120
+260
+125
+125
+120
+120
+735
+705
+125
+125
+120
+735
+705
+125
+125
+120
+120
+460
+460
+460
+460
+150
+150
+460
+460
+460
+460
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+3
+1
+1
+1
+3
+3
+1
+1
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+DOD
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+EDWARDS
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FEINBERG
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+FISHER
+
+300N
+300S
+301N
+301S
+302N
+302S
+400N
+400S
+401N
+401S
+402N
+402S
+101
+102
+107
+109
+111
+112
+115
+116
+117
+201
+218
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+1
+101
+102
+201
+202
+301
+302
+401
+402
+A101
+A105
+A201
+A225
+A305
+A308
+A310
+A312
+A314
+A316
+A317
+
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+6PERSON
+6PERSON
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+150
+150
+460
+460
+460
+460
+150
+150
+460
+460
+460
+460
+131
+101
+157
+152
+156
+121
+99
+122
+270
+154
+127
+161
+170
+165
+180
+157
+164
+164
+163
+160
+162
+163
+174
+173
+158
+299
+621
+609
+614
+610
+610
+617
+606
+881
+881
+722
+148
+755
+687
+139
+131
+133
+129
+135
+129
+113
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+3
+3
+4
+1
+4
+4
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FISHER
+FISHER
+FISHER
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+
+A318
+A321
+A323
+106
+108
+109
+110
+111
+151
+152
+153
+154
+155
+206
+207
+208
+209
+210
+211
+216
+217
+218
+219
+220
+221
+228
+235
+237
+239
+251
+252
+253
+254
+255
+261
+262
+263
+264
+266
+267
+268
+303
+304
+305
+307
+317
+321
+323
+324
+327
+328
+331
+401
+402
+403
+406
+407
+408
+
+SINGLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+TRIPLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+TRIPLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+132
+120
+1065
+143
+183
+183
+192
+183
+284
+291
+280
+311
+349
+183
+192
+183
+183
+192
+183
+193
+244
+275
+246
+248
+248
+389
+291
+234
+218
+293
+298
+287
+306
+346
+293
+293
+293
+296
+295
+296
+295
+311
+130
+394
+120
+125
+248
+127
+294
+145
+142
+286
+137
+182
+193
+228
+159
+318
+
+Whitman College
+Whitman College
+Whitman College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+
+410
+411
+A125
+A131
+A132
+A133
+A134
+A135
+A136
+A137
+A138
+A142
+A144
+A145
+A146
+A147
+A148
+A149
+A150
+A152
+A154
+A156
+A157
+A158
+A223
+A227
+A231
+A232
+A234
+A236
+A238
+A240
+A242
+A244
+A245
+A246
+A247
+A248
+A249
+A250
+A252
+A254
+A255
+A256
+A257
+A258
+A259
+A260
+A261
+A263
+A265
+A266
+A268
+A270
+A323
+A327
+A328
+A331
+
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+DOUBLE
+DOUBLE
+
+271
+309
+372
+208
+185
+115
+108
+115
+105
+185
+186
+168
+168
+144
+166
+172
+167
+158
+166
+167
+170
+171
+172
+180
+289
+291
+282
+185
+180
+180
+185
+171
+167
+168
+166
+168
+170
+170
+161
+168
+167
+167
+179
+169
+172
+180
+172
+162
+167
+166
+343
+160
+175
+173
+392
+288
+185
+279
+
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FORBES
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+
+A332
+A334
+A336
+A337
+A338
+A374
+A376
+A377
+A378
+A426
+A427
+A428
+A431
+A432
+A434
+A436
+A438
+101
+102
+111
+112
+113
+114
+121
+124
+131
+132
+133
+201
+202
+203
+204
+205
+211
+215
+221
+222
+302
+303
+304
+305
+311
+312
+313
+314
+315
+316
+317
+321
+322
+323
+324
+325
+326
+327
+328
+329
+331
+
+DOUBLE
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+TRIPLE
+TRIPLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+TRIPLE
+QUAD
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+
+184
+180
+180
+291
+184
+180
+180
+279
+184
+180
+284
+181
+270
+181
+180
+180
+181
+434
+204
+401
+148
+173
+441
+414
+454
+400
+152
+525
+146
+370
+463
+179
+167
+397
+166
+430
+545
+188
+185
+431
+385
+414
+453
+173
+170
+351
+382
+376
+411
+437
+168
+174
+350
+386
+112
+133
+119
+638
+
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Forbes College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+2
+2
+2
+1
+2
+1
+2
+2
+1
+1
+2
+1
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+1
+1
+2
+2
+1
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+FOULKE
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+
+332
+333
+334
+335
+341
+329A
+C102A
+C102B
+C103
+C104
+C105
+C105A
+C117
+C202A
+C202B
+C203
+C204
+C205A
+C205B
+C210
+C211
+C212
+C214
+C216
+C217
+C218A
+C218B
+C224
+C225
+C227
+C228
+C229
+C231
+C232
+C233
+C237
+C302A
+C302B
+C303
+C304
+C305A
+C305B
+C314
+C318
+C402A
+C402B
+C403
+C404
+C405A
+C405B
+C417
+C418
+C501
+C503A
+C503B
+C504
+C505
+C506A
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+184
+188
+198
+190
+603
+123
+142
+146
+150
+149
+254
+157
+554
+142
+146
+150
+149
+157
+159
+441
+154
+137
+471
+561
+441
+141
+140
+482
+735
+153
+153
+152
+150
+152
+152
+294
+142
+146
+151
+149
+157
+159
+250
+733
+142
+146
+151
+149
+157
+159
+132
+733
+484
+142
+146
+149
+151
+159
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+2
+2
+1
+1
+2
+4
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+1
+4
+1
+1
+1
+1
+1
+1
+2
+4
+2
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+Grousbeck Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+H Hall
+HAMILTON
+HAMILTON
+HAMILTON
+HAMILTON
+HAMILTON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HARGADON
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+
+C506B
+C510
+C515
+C516
+C517
+A303
+A305
+A306
+A308
+A311A
+A311B
+A410A
+A416
+A417
+A419
+A517
+A519
+A601
+A603
+A604
+A605
+A606
+A608
+A614
+A615
+113
+124
+322
+324
+325
+G101A
+G101D
+G203A
+G203B
+G304A
+G304B
+G306
+G309
+G311
+G401
+G402
+G403
+G405
+G407A
+G407B
+101
+102
+103
+104
+111
+112
+113
+114
+115
+121
+122
+123
+124
+
+SINGLE
+QUAD
+SINGLE
+QUAD
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUINT
+SINGLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+QUAD
+QUAD
+SINGLE
+DOUBLE
+TRIPLE
+QUAD
+QUAD
+
+158
+441
+167
+458
+301
+302
+148
+152
+151
+145
+146
+240
+245
+158
+153
+157
+153
+454
+302
+152
+150
+151
+151
+149
+147
+176
+628
+129
+957
+127
+430
+475
+157
+220
+157
+220
+156
+188
+188
+181
+128
+185
+165
+150
+110
+165
+197
+202
+595
+388
+395
+519
+519
+238
+313
+392
+523
+518
+
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+4
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HENRY
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+
+125
+131
+132
+133
+134
+136
+137
+141
+151
+201
+202
+203
+204
+205
+206
+207
+211
+212
+213
+215
+216
+217
+218
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+231
+232
+233
+234
+235
+236
+301
+302
+311
+312
+313
+314
+321
+323
+324
+331
+332
+333
+222A
+11
+21
+25
+26
+27
+36
+
+SINGLE
+SINGLE
+SINGLE
+QUAD
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+SINGLE
+TRIPLE
+QUAD
+SINGLE
+TRIPLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+
+238
+139
+176
+524
+473
+142
+137
+642
+406
+182
+187
+209
+213
+198
+193
+193
+175
+401
+179
+366
+363
+392
+165
+179
+133
+93
+133
+167
+370
+490
+110
+106
+166
+144
+454
+194
+436
+164
+181
+216
+436
+407
+196
+194
+431
+457
+113
+461
+525
+120
+402
+139
+305
+305
+125
+235
+620
+190
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+
+1
+1
+1
+2
+2
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+2
+2
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+2
+1
+2
+2
+1
+2
+1
+1
+1
+1
+1
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+HOLDER
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+
+41
+42
+46
+51
+52
+55
+56
+57
+61
+62
+63
+66
+67
+68
+69
+71
+72
+73
+74
+75
+76
+78
+79
+81
+87
+91
+92
+95
+101
+102
+103
+107
+115
+116
+121
+122
+123
+124
+125
+126
+136
+142
+143
+123
+212
+213
+214
+224
+225
+231
+232
+233
+234
+235
+311
+313
+321
+323
+
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+QUAD
+TRIPLE
+
+470
+448
+549
+445
+437
+186
+122
+160
+508
+444
+530
+523
+761
+179
+278
+435
+418
+467
+326
+135
+169
+250
+176
+483
+190
+434
+440
+112
+527
+444
+240
+748
+128
+176
+439
+435
+402
+200
+186
+618
+594
+166
+462
+496
+386
+366
+332
+329
+394
+290
+133
+131
+167
+238
+424
+409
+508
+421
+
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+1
+1
+1
+1
+1
+2
+1
+2
+2
+1
+2
+2
+1
+2
+1
+1
+2
+2
+2
+1
+1
+2
+2
+1
+2
+2
+2
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+JOLINE
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Jose Enrique Feliciano Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+
+332
+333
+334
+412
+422
+432
+433
+434
+D007
+D313
+D314
+D316
+D404A
+D414
+D504
+D505A
+D505B
+D506
+D510
+D512
+D515
+D603
+D604
+D605
+D605A
+D606
+D607
+D611
+D614
+C001
+C004
+C005
+C006
+C007
+C016A
+C016B
+C017A
+C017B
+C018
+C019
+C020
+C021
+C022
+C023
+C101
+C102
+C103
+C111
+C112
+C113
+C116
+C117
+C119
+C120A
+C120B
+C121A
+C121B
+C122
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+200
+188
+144
+212
+205
+331
+195
+151
+442
+295
+261
+303
+269
+455
+158
+170
+172
+449
+459
+482
+457
+157
+159
+173
+270
+152
+297
+459
+164
+485
+148
+148
+148
+142
+148
+159
+155
+154
+152
+151
+152
+152
+151
+152
+488
+481
+152
+146
+148
+142
+151
+152
+155
+148
+159
+154
+154
+151
+
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+Kwanza Marion Jones Hall
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+LAUGHLIN
+
+C125
+C213A
+C213B
+C214
+C217
+C218A
+C218B
+C219A
+C219B
+C220
+C223
+C225
+C227
+C313A
+C313B
+C314
+C315
+C316
+C413A
+C413B
+C414
+C415
+C416
+C501
+C502
+C503
+C510
+C512
+C513
+C601
+C602
+C603
+C610
+511
+512
+513
+521
+522
+523
+531
+532
+533
+534
+611
+612
+613
+614
+616
+617
+621
+622
+623
+624
+625
+626
+627
+631
+632
+
+QUAD
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+TRIPLE
+DOUBLE
+DOUBLE
+TRIPLE
+DOUBLE
+DOUBLE
+QUINT
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+TRIPLE
+TRIPLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+TRIPLE
+QUAD
+
+456
+160
+160
+731
+155
+149
+159
+155
+155
+152
+456
+223
+158
+160
+160
+727
+119
+444
+160
+160
+729
+132
+444
+455
+489
+160
+873
+161
+152
+455
+490
+160
+573
+436
+377
+364
+440
+357
+361
+768
+127
+150
+138
+230
+349
+155
+380
+409
+485
+381
+181
+430
+191
+395
+190
+437
+444
+621
+
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+New College West
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+2
+1
+1
+4
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+4
+1
+2
+1
+1
+4
+1
+2
+2
+2
+1
+2
+1
+1
+2
+2
+1
+2
+1
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LAUGHLIN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LAURITZEN
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+
+633
+D105
+D106
+D107
+D108
+D109
+D110
+D112
+D114
+D201
+D206
+D301
+D302
+D303
+D304
+D305
+D306
+D307
+D308
+D311
+D312
+D314
+D403
+D404
+D405
+D406
+D407
+D408
+D409
+D410
+D412
+D413
+D414
+D420
+21
+23
+31
+33
+43
+71
+73
+74
+77
+81
+83
+85
+87
+91
+93
+95
+97
+101
+103
+105
+111
+115
+121
+122
+
+DOUBLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUINT
+QUAD
+QUAD
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+
+409
+496
+144
+529
+148
+117
+148
+460
+593
+125
+144
+131
+146
+117
+176
+495
+169
+500
+146
+117
+152
+965
+149
+132
+149
+131
+201
+139
+229
+139
+132
+203
+132
+132
+529
+531
+527
+514
+530
+889
+573
+573
+683
+506
+419
+418
+198
+509
+508
+203
+519
+512
+512
+508
+744
+708
+600
+637
+
+Upperclass
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+2
+1
+2
+1
+1
+1
+2
+2
+1
+1
+0
+1
+1
+1
+2
+1
+2
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+1
+1
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LITTLE
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+
+123
+124
+131
+134
+141
+142
+143
+145
+146
+301
+302
+303
+305
+307
+309
+311
+313
+318
+321
+323
+325
+327
+329
+381
+385
+387
+391
+393
+395
+399
+401
+A10
+A14
+A16
+A20
+A24
+A28
+A34
+A36
+A38
+A40
+A46
+A48
+A54
+A56
+101
+102
+103
+104
+111
+112
+113
+114
+121
+201
+211
+212
+213
+
+QUAD
+SINGLE
+TRIPLE
+QUAD
+DOUBLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+QUAD
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+QUAD
+QUAD
+QUAD
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+TRIPLE
+
+617
+219
+464
+537
+288
+644
+595
+521
+653
+562
+162
+193
+123
+116
+119
+131
+110
+159
+111
+127
+118
+118
+742
+710
+207
+137
+140
+141
+230
+776
+550
+309
+522
+404
+328
+189
+420
+228
+201
+548
+562
+444
+529
+501
+610
+234
+111
+380
+166
+238
+112
+377
+173
+384
+338
+179
+199
+450
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Mathey College
+Upperclass
+Mathey College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+2
+1
+2
+2
+1
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+2
+1
+2
+2
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+LOCKHART
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+Mannion Hall
+MURLEY
+MURLEY
+MURLEY
+MURLEY
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+
+214
+221
+222
+223
+224
+225
+231
+232
+241
+242
+301
+302
+303
+304
+311
+312
+313
+321
+322
+323
+325
+401
+402
+411
+413
+421
+422
+423
+431
+432
+433
+D103
+D115
+D118
+D203
+D216
+D303
+D311
+D312
+D314
+D410
+D501
+D505
+D506
+D507
+D509
+D513
+D515
+T302
+T304
+T402
+T403
+30
+40
+41
+60
+61
+62
+
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+DOUBLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+QUAD
+DOUBLE
+DOUBLE
+QUAD
+DOUBLE
+TRIPLE
+6PERSON
+6PERSON
+QUAD
+TRIPLE
+TRIPLE
+
+434
+188
+189
+440
+206
+194
+686
+722
+562
+420
+172
+216
+200
+181
+400
+178
+174
+396
+181
+179
+146
+219
+249
+182
+198
+302
+90
+350
+283
+248
+122
+454
+338
+152
+783
+152
+786
+258
+337
+161
+723
+155
+453
+453
+150
+724
+484
+461
+240
+231
+965
+584
+428
+835
+859
+574
+437
+449
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+New College East
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+2
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+4
+1
+4
+1
+1
+1
+4
+1
+2
+2
+1
+4
+2
+2
+1
+1
+2
+1
+2
+5
+4
+2
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PATTON
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+
+63
+64
+70
+71
+72
+73
+74
+75
+76
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+307
+308
+309
+310
+311
+312
+313
+408
+T01
+T02
+T03
+T04
+T05
+T06
+T07
+T08
+T09
+T10
+T11
+T12
+T13
+112
+113
+114
+115
+116
+121
+123
+124
+125
+131
+132
+133
+135
+141
+142
+144
+211
+
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+TRIPLE
+SINGLE
+DOUBLE
+TRIPLE
+TRIPLE
+TRIPLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+DOUBLE
+SINGLE
+TRIPLE
+6PERSON
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+6PERSON
+TRIPLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+6PERSON
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+
+430
+191
+190
+165
+455
+443
+192
+313
+457
+456
+435
+669
+192
+139
+136
+155
+472
+242
+192
+431
+873
+327
+152
+170
+347
+284
+234
+868
+395
+154
+419
+184
+195
+442
+186
+195
+155
+136
+139
+1278
+229
+160
+168
+435
+207
+191
+444
+157
+438
+186
+464
+177
+174
+145
+373
+295
+192
+375
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+2
+1
+1
+1
+2
+2
+1
+2
+2
+2
+2
+3
+1
+1
+1
+1
+2
+2
+1
+2
+4
+1
+1
+1
+1
+1
+2
+5
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+4
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+
+212
+213
+214
+221
+222
+223
+224
+225
+230
+232
+233
+234
+235
+241
+242
+243
+311
+312
+313
+314
+315
+316
+321
+322
+323
+324
+325
+332
+333
+334
+335
+342
+343
+344
+345
+346
+411
+412
+413
+414
+421
+422
+423
+424
+427
+428
+429
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+
+148
+350
+146
+373
+165
+176
+168
+163
+82
+132
+134
+263
+157
+230
+237
+136
+209
+210
+349
+407
+166
+169
+213
+348
+414
+174
+169
+231
+423
+177
+113
+317
+228
+216
+577
+101
+179
+176
+178
+200
+180
+171
+164
+166
+167
+250
+113
+175
+133
+183
+152
+247
+131
+128
+239
+117
+103
+115
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+PYNE
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+
+442
+443
+511
+601
+602
+603
+611
+613
+614
+616
+617
+621
+622
+623
+624
+625
+626
+630
+631
+632
+633
+634
+641
+643
+701
+702
+703
+704
+705
+711
+712
+713
+714
+715
+716
+717
+718
+719
+722
+724
+725
+727
+728
+731
+732
+733
+734
+735
+741
+742
+743
+441A
+631A
+101
+102
+104
+106
+107
+
+DOUBLE
+DOUBLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+
+428
+319
+809
+188
+563
+234
+349
+204
+402
+196
+199
+353
+166
+205
+178
+194
+125
+121
+84
+194
+215
+215
+588
+149
+162
+161
+155
+399
+168
+168
+164
+171
+170
+165
+149
+167
+389
+165
+164
+131
+133
+155
+446
+177
+144
+145
+252
+251
+183
+156
+137
+124
+88
+288
+755
+148
+147
+510
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+3
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+4
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+
+108
+110
+114
+117
+118
+121
+122
+123
+124
+126
+131
+133
+134
+147
+148
+149
+152
+153
+162
+166
+168
+170
+172
+174
+201
+202
+207
+210
+214
+217
+218
+221
+222
+224
+225
+226
+227
+228
+230
+232
+233
+234
+236
+238
+240
+242
+244
+249
+253
+260
+261
+262
+264
+265
+266
+267
+268
+270
+
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+DOUBLE
+
+148
+147
+147
+337
+147
+190
+305
+166
+147
+148
+196
+196
+148
+280
+166
+280
+166
+280
+140
+278
+278
+278
+278
+278
+288
+755
+510
+147
+147
+337
+147
+190
+305
+147
+166
+148
+166
+147
+148
+147
+196
+148
+147
+148
+755
+140
+154
+280
+280
+151
+160
+161
+278
+166
+278
+166
+278
+278
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+2
+2
+2
+2
+2
+4
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+2
+2
+1
+1
+1
+2
+1
+2
+1
+2
+2
+
+
+
+
+
+
+
+
+
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+
+271
+272
+273
+274
+301
+302
+304
+307
+322
+324
+325
+326
+327
+328
+330
+332
+334
+335
+340
+345
+347
+349
+356
+358
+360
+362
+366
+367
+368
+370
+372
+373
+374
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+417
+422
+428
+430
+432
+433
+435
+436
+437
+438
+439
+
+SINGLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+QUAD
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+166
+278
+166
+278
+288
+755
+148
+510
+297
+147
+166
+148
+166
+147
+148
+147
+148
+160
+755
+181
+280
+280
+166
+166
+151
+161
+278
+783
+278
+278
+278
+166
+278
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+134
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+2
+1
+2
+2
+4
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+2
+2
+1
+1
+1
+1
+2
+3
+2
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SCULLY
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+SPELMAN
+WALKER
+
+440
+441
+444
+446
+447
+11
+12
+13
+14
+15
+16
+17
+18
+21
+22
+23
+24
+25
+26
+32
+34
+35
+36
+37
+38
+41
+43
+45
+46
+47
+48
+51
+52
+53
+54
+55
+56
+61
+63
+64
+65
+66
+67
+68
+71
+73
+74
+75
+76
+77
+78
+81
+82
+83
+84
+85
+86
+121
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+
+134
+134
+134
+134
+134
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+930
+177
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WALKER
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+
+122
+125
+126
+221
+222
+224
+225
+233
+234
+301
+302
+303
+304
+305
+321
+322
+323
+328
+329
+332
+333
+B210
+B216
+B218
+B308
+B309
+B310
+B311
+B312
+B313
+B314
+B315
+B317
+B318
+B320
+B407
+B408
+B409
+B410
+B411
+B412
+B414
+B415
+B416
+B417
+B418
+B422
+B424
+C202
+C204
+C206
+C207
+C208
+C209
+C210
+C211
+C212
+C213
+
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+
+219
+100
+99
+364
+202
+188
+176
+208
+183
+246
+186
+185
+183
+186
+194
+495
+199
+199
+181
+275
+201
+147
+149
+514
+175
+512
+148
+115
+152
+115
+484
+484
+115
+517
+460
+206
+167
+152
+133
+208
+131
+137
+201
+134
+153
+140
+131
+150
+160
+450
+143
+146
+149
+146
+150
+147
+149
+146
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+2
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WENDELL
+WENDELL
+WENDELL
+WENDELL
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WILF
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WITHERSPOON
+WRIGHT
+WRIGHT
+
+C214
+C215
+C216
+C217
+E103
+E105
+E107
+E108
+E202
+E205
+E301
+E302
+E303
+E305
+E306
+E308
+E401
+E402
+E403
+E405
+6
+12
+14
+101
+102
+104
+105
+106
+117
+122
+203
+206
+208
+214
+303
+306
+310
+312
+314
+403
+410
+416
+501
+503
+504
+505
+506
+509
+510
+512
+514
+515
+516
+517
+521
+522
+10
+11
+
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+DOUBLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+DOUBLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+SINGLE
+QUAD
+QUAD
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+SINGLE
+QUAD
+SINGLE
+DOUBLE
+TRIPLE
+TRIPLE
+
+149
+147
+138
+143
+211
+142
+138
+135
+580
+580
+137
+580
+128
+580
+139
+140
+137
+580
+128
+580
+169
+109
+121
+244
+119
+593
+190
+172
+610
+243
+619
+109
+108
+104
+650
+113
+112
+116
+109
+650
+114
+120
+532
+657
+197
+233
+117
+224
+116
+116
+115
+227
+122
+665
+128
+284
+448
+448
+
+Whitman College
+Whitman College
+Whitman College
+Whitman College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Rockefeller College
+Upperclass
+Upperclass
+
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+WRIGHT
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+YOSELOFF
+
+20
+21
+31
+32
+301
+302
+303
+304
+306
+401
+403
+406
+407
+A105
+A107
+A113
+A115
+A202
+A203
+A204
+A205
+A206
+A207
+
+TRIPLE
+DOUBLE
+TRIPLE
+TRIPLE
+QUAD
+SINGLE
+SINGLE
+DOUBLE
+DOUBLE
+DOUBLE
+SINGLE
+SINGLE
+TRIPLE
+SINGLE
+SINGLE
+QUAD
+QUAD
+QUAD
+QUAD
+QUAD
+SINGLE
+QUAD
+SINGLE
+
+435
+238
+425
+459
+632
+185
+196
+319
+423
+433
+174
+179
+429
+138
+139
+653
+522
+580
+580
+522
+138
+565
+139
+
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Upperclass
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+Butler College
+
+2
+2
+2
+2
+3
+1
+1
+2
+2
+1
+1
+1
+2
+1
+1
+2
+2
+2
+2
+2
+1
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
