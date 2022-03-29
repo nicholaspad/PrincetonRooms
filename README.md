@@ -1,10 +1,10 @@
-# Room Reviews
-The TigerApps team has recovered room review data from the now-defunct Rooms app. This app displays those data in a sortable and filterable table.
+# Princeton Rooms
+Search, sort, and filter through all available Princeton rooms for the 2022-2023 academic year. Browse 1500+ room reviews recovered from the now-defunct Rooms app.
 
-URL: https://reviews.tigerapps.org
+### URL: https://rooms.tigerapps.org
 
-App design: Nicholas Padmanabhan '23
+> App design: Nicholas Padmanabhan '23
+> 
+> TigerApps Team: Shannon Heh '23, Nicholas Padmanabhan '23, Charles An '22
 
-Team: Shannon Heh '23, Nicholas Padmanabhan '23, Charles An '22
-
-![Mar-02-2022 12-18-40](https://user-images.githubusercontent.com/13815069/156414013-614bdb6d-d2e9-46ae-957a-459c3c3e1df7.gif)
+![image](https://user-images.githubusercontent.com/13815069/160678012-755c079d-486e-43c3-8ddb-ba16ba3cd754.png)
