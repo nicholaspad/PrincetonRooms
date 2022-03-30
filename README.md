@@ -1,7 +1,7 @@
 # Princeton Rooms
 Search, sort, and filter through all available Princeton rooms for the 2022-2023 academic year. Browse 1500+ room reviews recovered from the now-defunct Rooms app.
 
-### URL: https://rooms.tigerapps.org
+### URL: https://reviews.tigerapps.org
 
 > App design: Nicholas Padmanabhan '23
 > 
